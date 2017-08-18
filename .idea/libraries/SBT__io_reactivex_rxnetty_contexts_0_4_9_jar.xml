@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: io.reactivex:rxnetty-contexts:0.4.9:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/io.reactivex/rxnetty-contexts/jars/rxnetty-contexts-0.4.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/io.reactivex/rxnetty-contexts/srcs/rxnetty-contexts-0.4.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

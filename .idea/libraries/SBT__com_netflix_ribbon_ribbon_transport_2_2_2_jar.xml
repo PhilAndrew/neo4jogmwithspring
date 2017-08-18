@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: com.netflix.ribbon:ribbon-transport:2.2.2:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.netflix.ribbon/ribbon-transport/jars/ribbon-transport-2.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.netflix.ribbon/ribbon-transport/srcs/ribbon-transport-2.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

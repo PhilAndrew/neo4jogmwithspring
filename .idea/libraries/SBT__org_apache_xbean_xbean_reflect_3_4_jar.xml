@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.apache.xbean:xbean-reflect:3.4:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.xbean/xbean-reflect/bundles/xbean-reflect-3.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.xbean/xbean-reflect/srcs/xbean-reflect-3.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
